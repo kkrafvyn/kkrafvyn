@@ -1,6 +1,6 @@
 # Prosper Ocloo
 
-Computer engineer based in Ghana, working across backend software, embedded systems and digital hardware.
+Computer engineer based in Ghana with five years of hands-on engineering experience, working across backend software, embedded systems and digital hardware.
 
 I build connected-device software, web applications and engineering prototypes. I’m interested in remote contracts with clear deliverables, flexible collaboration and fixed milestones.
 
